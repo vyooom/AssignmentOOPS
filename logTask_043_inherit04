@@ -1,0 +1,9 @@
+INFO 2022-07-16 21:15:52,966 root Concept Inheritance :- Example - 04
+INFO 2022-07-16 21:15:52,966 root This is a test to see inheritance method call inside a child class.
+INFO 2022-07-16 21:15:52,966 root Inheritance for a child class object child.show()
+INFO 2022-07-16 21:15:52,967 root This course is OOPS with an identification number 50436 & its duration is 14.
+INFO 2022-07-16 21:15:52,967 root OOPS
+INFO 2022-07-16 21:15:52,967 root The next identification is 50437.
+INFO 2022-07-16 21:15:52,967 root The id for the next course is 50437
+INFO 2022-07-16 21:15:52,967 root The duration for the remaining courses is 486
+INFO 2022-07-16 21:15:52,967 root (50437, 486)

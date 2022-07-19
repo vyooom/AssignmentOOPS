@@ -1,0 +1,5 @@
+INFO 2022-07-17 09:56:32,773 root Concept Abstraction :- Example - 03
+INFO 2022-07-17 09:56:32,774 root The updated list of student is ['abhishek'].
+INFO 2022-07-17 09:56:32,774 root The list of current students in iNeuron is ['abhishek']
+INFO 2022-07-17 09:56:32,774 root The updated list of student is ['abhishek', 'suman', 'sunny', 'shekhar', 'gaurav', 'jayant'].
+INFO 2022-07-17 09:56:32,774 root The list of current students in iNeuron is ['abhishek', 'suman', 'sunny', 'shekhar', 'gaurav', 'jayant']

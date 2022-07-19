@@ -1,0 +1,4 @@
+INFO 2022-07-16 19:03:23,962 root Concept Protected :- Example - 01
+INFO 2022-07-16 19:03:23,962 root Abhishek
+INFO 2022-07-16 19:03:23,962 root My name is Abhishek.
+ERROR 2022-07-16 19:03:23,962 root Initialization needs a string.

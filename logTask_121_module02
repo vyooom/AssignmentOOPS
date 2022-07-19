@@ -1,0 +1,6 @@
+INFO 2022-07-18 22:11:59,113 root Concept Module:- Example - 02
+INFO 2022-07-18 22:11:59,113 root You have completed the minimum number of internship required.
+INFO 2022-07-18 22:11:59,113 root You need to do more internship.
+INFO 2022-07-18 22:11:59,113 root Please enter a valid positive integer.
+ERROR 2022-07-18 22:11:59,113 root Please enter a valid positive integer.
+NoneType: None

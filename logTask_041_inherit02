@@ -1,0 +1,6 @@
+INFO 2022-07-16 20:16:40,527 root Concept Inheritance :- Example - 02
+INFO 2022-07-16 20:16:40,528 root This is a test to see conflict inheritance object.
+INFO 2022-07-16 20:16:40,528 root Inheritance for a parent class object parent.course
+INFO 2022-07-16 20:16:40,528 root Full Stack Data Science
+INFO 2022-07-16 20:16:40,528 root Inheritance for a child class object child.course
+INFO 2022-07-16 20:16:40,528 root Object Oriented Programming

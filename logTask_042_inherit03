@@ -1,0 +1,5 @@
+INFO 2022-07-16 20:45:47,796 root Concept Inheritance :- Example - 03
+INFO 2022-07-16 20:45:47,796 root This is a test to see inheritance in child class.
+INFO 2022-07-16 20:45:47,796 root Inheritance for a child class object child.show()
+INFO 2022-07-16 20:45:47,796 root This course is OOPS with an identification number 2022/05/07.
+INFO 2022-07-16 20:45:47,796 root None

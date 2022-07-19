@@ -1,0 +1,6 @@
+INFO 2022-07-16 19:17:27,029 root Concept Protected :- Example - 05
+INFO 2022-07-16 19:17:27,029 root The current id is 5
+INFO 2022-07-16 19:17:27,029 root The current id is 15
+INFO 2022-07-16 19:17:27,029 root The current id is 8
+INFO 2022-07-16 19:17:27,029 root The current id is 18
+INFO 2022-07-16 19:17:27,029 root Protected objects must be accessed with ._

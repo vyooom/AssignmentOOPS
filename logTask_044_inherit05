@@ -1,0 +1,9 @@
+INFO 2022-07-16 21:24:13,902 root Concept Inheritance :- Example - 05
+INFO 2022-07-16 21:24:13,902 root Initializing the parent class.
+INFO 2022-07-16 21:24:13,902 root Initializing the child class.
+INFO 2022-07-16 21:24:13,903 root Accessing the parent class method:
+INFO 2022-07-16 21:24:13,903 root The next identification is 126.
+INFO 2022-07-16 21:24:13,903 root 126
+INFO 2022-07-16 21:24:13,903 root Accessing the child class method:
+INFO 2022-07-16 21:24:13,903 root This change is in child class. The next identification is 1500.
+INFO 2022-07-16 21:24:13,903 root 1500

@@ -1,0 +1,32 @@
+INFO 2022-07-17 12:48:25,474 root Concept Encapsulation :- Example - 01
+INFO 2022-07-17 12:48:25,474 root The current id is 5
+INFO 2022-07-17 12:48:25,474 root The current id is 15
+INFO 2022-07-17 12:48:25,474 root The current id is 8
+INFO 2022-07-17 12:48:25,474 root The current id is 18
+INFO 2022-07-17 12:48:25,474 root 894
+INFO 2022-07-17 12:48:25,475 root The rollnumber is 894
+INFO 2022-07-17 12:48:25,475 root The updated rollnumber is 8940
+INFO 2022-07-17 12:48:25,475 root The rollnumber is 8940
+INFO 2022-07-17 12:48:25,475 root The change in public data from terminal updated roll: 8941
+INFO 2022-07-17 12:48:25,475 root The rollnumber is 8940
+INFO 2022-07-17 12:48:25,475 root 894
+INFO 2022-07-17 12:48:25,475 root The rollnumber is 894
+INFO 2022-07-17 12:48:25,475 root The updated rollnumber is 8940
+INFO 2022-07-17 12:48:25,475 root The rollnumber is 8940
+INFO 2022-07-17 12:48:25,475 root The rollnumber is 894000
+INFO 2022-07-17 12:48:25,475 root 894
+INFO 2022-07-17 12:48:25,475 root The rollnumber is 894
+INFO 2022-07-17 12:48:25,475 root The updated rollnumber is 8940
+INFO 2022-07-17 12:48:25,475 root The rollnumber is 8940
+INFO 2022-07-17 12:48:25,475 root The change in public data from terminal updated roll: 8941
+INFO 2022-07-17 12:48:25,475 root The rollnumber is 8940
+INFO 2022-07-17 12:48:25,475 root 894
+INFO 2022-07-17 12:48:25,476 root The rollnumber is 894
+INFO 2022-07-17 12:48:25,476 root The updated rollnumber is 8940
+INFO 2022-07-17 12:48:25,476 root The rollnumber is 8940
+INFO 2022-07-17 12:48:25,476 root The rollnumber is 894000
+INFO 2022-07-17 12:48:25,476 root The current id is 5
+INFO 2022-07-17 12:48:25,476 root The current id is 15
+INFO 2022-07-17 12:48:25,476 root The current id is 8
+INFO 2022-07-17 12:48:25,476 root The current id is 18
+INFO 2022-07-17 12:48:25,476 root Private objects must be accessed with ._<class name>__ 

@@ -1,0 +1,7 @@
+INFO 2022-07-16 22:28:15,552 root Concept Abstraction :- Example - 02
+INFO 2022-07-16 22:28:15,552 root My name is abhi. I have written 1 blogs & I have completed internships in following companies ['amazon'].
+INFO 2022-07-16 22:28:15,552 root The initial number of blogs written is 1
+INFO 2022-07-16 22:28:15,552 root The updated number of blogs written is 9
+INFO 2022-07-16 22:28:15,552 root The initial list of internship is ['amazon']
+INFO 2022-07-16 22:28:15,553 root The updated list of internship is ['amazon', 'google']
+INFO 2022-07-16 22:28:15,553 root My name is abhi. I have written 9 blogs & I have completed internships in following companies ['amazon', 'google'].

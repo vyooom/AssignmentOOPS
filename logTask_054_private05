@@ -1,0 +1,6 @@
+INFO 2022-07-16 19:00:35,699 root Concept Private :- Example - 05
+INFO 2022-07-16 19:00:35,699 root The current id is 5
+INFO 2022-07-16 19:00:35,699 root The current id is 15
+INFO 2022-07-16 19:00:35,699 root The current id is 8
+INFO 2022-07-16 19:00:35,699 root The current id is 18
+INFO 2022-07-16 19:00:35,699 root Private objects must be accessed with ._<class name>__ 

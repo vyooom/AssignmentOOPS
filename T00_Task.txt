@@ -1,0 +1,21 @@
+For all the concepts that we have discussed in our class point by point you have to write
+atleast 10 examples
+
+you have to make sure that use ineuron studnets , class , class type , number of courses
+, affiliates , blog, internship , jobs as a reference example
+
+1. class T010 to T019
+2. object T020 to T029
+3. constructor
+4. inheritance
+5. private
+6. public
+7. protected
+8. abstraction
+9. encaptulations
+10. polymorpsim
+11. package
+12. modules
+13. method overrridding T130 to T139
+
+The logging & exception handling must be present.
